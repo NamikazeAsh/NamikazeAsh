@@ -1,6 +1,10 @@
 # 💫 Enlightening quote:
 To protect the world from devastation <br>
 To unite the people of this nation <br>
+To denounce the evils of truth and love <br> 
+To extend our reach to the stars above <br>
+Team Rocket blasts off at the speed of light!<br>
+Surrender now, or prepare to fight!<br>
 
 
 ## 🌐 Socials:
