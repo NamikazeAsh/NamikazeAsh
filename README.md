@@ -19,9 +19,6 @@ Surrender now, or prepare to fight!<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NamikazeAsh&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NamikazeAsh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=NamikazeAsh&icon=0&color=11)](https://visitcount.itsvg.in)
 
