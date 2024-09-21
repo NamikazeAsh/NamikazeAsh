@@ -20,6 +20,5 @@ Surrender now, or prepare to fight!<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NamikazeAsh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NamikazeAsh&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
