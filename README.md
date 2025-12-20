@@ -1,13 +1,3 @@
-# 💫 Enlightening quote:
-To protect the world from devastation <br>
-To unite the people of this nation <br>
-To denounce the evils of truth and love <br> 
-To extend our reach to the stars above <br>
-![image](https://github.com/user-attachments/assets/19942cfd-5bfa-414e-b94a-bb105ea302e4)
-Team Rocket blasts off at the speed of light!<br>
-Surrender now, or prepare to fight!<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashwin-satish-759b28236/) 
 
@@ -18,6 +8,15 @@ Surrender now, or prepare to fight!<br>
 ![](https://github-readme-stats.vercel.app/api?username=NamikazeAsh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NamikazeAsh&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NamikazeAsh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# 💫 Enlightening quote:
+To protect the world from devastation <br>
+To unite the people of this nation <br>
+To denounce the evils of truth and love <br> 
+To extend our reach to the stars above <br>
+![image](https://github.com/user-attachments/assets/19942cfd-5bfa-414e-b94a-bb105ea302e4)
+Team Rocket blasts off at the speed of light!<br>
+Surrender now, or prepare to fight!<br>
 
 ---
 
