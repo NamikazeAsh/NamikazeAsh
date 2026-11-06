@@ -7,13 +7,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashwin-satish-759b28236/) 
 
-# 💫 Enlightening quote:
-To protect the world from devastation <br>
-To unite the people of this nation <br>
-To denounce the evils of truth and love <br> 
-To extend our reach to the stars above <br>
-....you know the rest.
-
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
