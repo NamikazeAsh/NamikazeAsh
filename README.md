@@ -15,7 +15,6 @@ MS Data Science @ Northeastern (Dec 2026) · ML Developer @ Gyori Lab for Comput
 | [**ytmpcli**](https://github.com/NamikazeAsh/ytmpcli) | Minimalist CLI frontend for yt-dlp that grabs M4A/MP4 from links or inline search. Ships on pip and as a standalone `.exe`. |
 
 ### 🛠️ Stack
-### 🛠️ Stack
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
