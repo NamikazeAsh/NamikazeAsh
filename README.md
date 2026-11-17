@@ -47,8 +47,8 @@ MS Data Science @ Northeastern (Dec 2026) · ML Developer @ Gyori Lab for Comput
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Off the clock
-- 🏎️ F1 ride or die for **Ferrari**
-- 🎮 Competitive Pokémon player (hence MetaMatch)
+- 🏎️ F1 **Forza Ferrari**
+- 🎮 Competitive Pokémon Showdown (ex) player (hence MetaMatch)
 
 ---
 <sub>let's talk ML, F1, or Pokémon → [LinkedIn](https://www.linkedin.com/in/ashwin-satish-759b28236/) · Discord: `namikazeash`</sub>
